@@ -1,0 +1,4 @@
+*.python linguist-detectable=true
+*.ipynb linguist-vendored
+*.ipynb linguist-language=python
+*.html linguist-language=python
